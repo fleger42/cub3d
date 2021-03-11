@@ -24,6 +24,7 @@ The longer the distance, the tiniest the wall will be. My Cub3D support the foll
 - Use 4 different texture for N,S,O,E (You can change the texture in .cub file)
 - Sprite are supported (You can change the texture and the position of sprite in .cub file)
 - Different colors for floor and ceiling (You can change the color in .cub file)
+- --save argument
 - And more.. (See [Subject][1] for more details)
 
 ## Final grade:
