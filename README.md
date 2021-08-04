@@ -16,7 +16,7 @@ You can create or edit freely .cub file. See [Subject][1] for more details about
 
 The goal of this project is to make our own version of [Wolfenstein 3D][3]. 
 The project use a raycasting algorithm to be able to create a maze. For each column on your screen, the programm will send a ray and draw a wall based on the distance the ray traveled.
-![alt text](https://lh3.googleusercontent.com/proxy/8BHxqEMdVFJPD3BKrODz9vBHNYyTbrSp9-EalggRZtpM0UOANPrScW7PRFTvRmxONcNfsCKHJotski3K7caZMVWvZI_0vRQZ2xssCQ4EYRe-AA)
+![alt text](wolfeinsted)
 
 The longer the distance, the tiniest the wall will be. My Cub3D support the following basic features:
 - You can walk in a maze like terrain with W A S D
